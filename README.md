@@ -9,13 +9,11 @@
 
 ## Introduction
 
-This GitHub repository is the codebase for the research paper titled - '**Few-shot Transfer Learning to Improve Chest X-Ray Pathology Detection using limited Triplets**'. 
+This GitHub repository is the codebase for the research paper titled - '**Few-shot Transfer Learning to Improve Chest X-Ray Pathology Detection using limited Triplets**'. The paper discusses about the training of Few-Shot Learning coupled with triplet images to boost the classification of Chest X-Ray Images. The traning method proposed in the paper can be used in rapid re-training oppurtunities for human-in-the-loop systems, where a radiologist can relabel false inferences and the model can be quickly retrained.
 
 ## Architecture
 
-<p align="center">
-  </images/Few Shot Learning.jpeg>
-</p>
+![Architectural Flowchart](/images/Few Shot Learning.jpeg)
 
 ## Algorithm Modelling
 
