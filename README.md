@@ -14,7 +14,7 @@ This GitHub repository is the codebase for the research paper titled - '**Few-sh
 ## Architecture
 
 <p align="center">
-  <>
+  </images/Few Shot Learning.jpeg>
 </p>
 
 ## Algorithm Modelling
