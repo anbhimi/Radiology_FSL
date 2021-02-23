@@ -1,0 +1,282 @@
+INFO 2021-02-12 22:01:50,529 - Initial model is loaded on to GPU.
+INFO 2021-02-12 22:11:37,595 - FSL model is loaded on to GPU.
+INFO 2021-02-12 22:11:37,664 - Pathology - No Finding
+INFO 2021-02-12 22:11:54,930 - Created the training data triplets.
+INFO 2021-02-12 22:13:02,044 - Train loss: 0.1975783258676529
+INFO 2021-02-12 22:14:01,181 - Train loss: 0.11291103065013885
+INFO 2021-02-12 22:14:59,101 - Train loss: 0.02785283327102661
+INFO 2021-02-12 22:16:02,064 - Train loss: 0.006396479904651642
+INFO 2021-02-12 22:17:04,837 - Train loss: 0.0020571970380842686
+INFO 2021-02-12 22:17:05,420 - Pathology - Enlarged Cardiomediastinum
+INFO 2021-02-12 22:17:22,109 - Created the training data triplets.
+INFO 2021-02-12 22:18:24,600 - Train loss: 0.19476318359375
+INFO 2021-02-12 22:19:27,979 - Train loss: 0.04577568918466568
+INFO 2021-02-12 22:20:30,705 - Train loss: 0.00842942763119936
+INFO 2021-02-12 22:21:33,323 - Train loss: 0.0026868891436606646
+INFO 2021-02-12 22:22:35,748 - Train loss: 0.001098617329262197
+INFO 2021-02-12 22:22:36,460 - Pathology - Cardiomegaly
+INFO 2021-02-12 22:22:53,725 - Created the training data triplets.
+INFO 2021-02-12 22:23:56,257 - Train loss: 0.18541307747364044
+INFO 2021-02-12 22:24:59,115 - Train loss: 0.06123104318976402
+INFO 2021-02-12 22:26:02,447 - Train loss: 0.011582039296627045
+INFO 2021-02-12 22:27:06,513 - Train loss: 0.00443769246339798
+INFO 2021-02-12 22:28:09,187 - Train loss: 0.0023111929185688496
+INFO 2021-02-12 22:28:09,928 - Pathology - Lung Opacity
+INFO 2021-02-12 22:28:26,964 - Created the training data triplets.
+INFO 2021-02-12 22:29:28,749 - Train loss: 0.21811603009700775
+INFO 2021-02-12 22:30:24,582 - Train loss: 0.03813501074910164
+INFO 2021-02-12 22:31:26,769 - Train loss: 0.0018530914094299078
+INFO 2021-02-12 22:32:29,721 - Train loss: 0.0006146423402242362
+INFO 2021-02-12 22:33:31,541 - Train loss: 0.0
+INFO 2021-02-12 22:33:32,299 - Pathology - Lung Lesion
+INFO 2021-02-12 22:33:49,631 - Created the training data triplets.
+INFO 2021-02-12 22:34:49,428 - Train loss: 0.21253129839897156
+INFO 2021-02-12 22:35:50,769 - Train loss: 0.033442266285419464
+INFO 2021-02-12 22:36:51,992 - Train loss: 0.0076356977224349976
+INFO 2021-02-12 22:37:53,788 - Train loss: 0.0036830382887274027
+INFO 2021-02-12 22:38:54,653 - Train loss: 0.0018216633470728993
+INFO 2021-02-12 22:38:55,360 - Pathology - Edema
+INFO 2021-02-12 22:39:12,548 - Created the training data triplets.
+INFO 2021-02-12 22:40:14,705 - Train loss: 0.20508521795272827
+INFO 2021-02-12 22:41:17,900 - Train loss: 0.03229949623346329
+INFO 2021-02-12 22:42:19,772 - Train loss: 0.0019025001674890518
+INFO 2021-02-12 22:43:16,931 - Train loss: 4.441424971446395e-05
+INFO 2021-02-12 22:44:18,265 - Train loss: 0.00027106047491542995
+INFO 2021-02-12 22:44:19,092 - Pathology - Consolidation
+INFO 2021-02-12 22:44:35,733 - Created the training data triplets.
+INFO 2021-02-12 22:45:33,636 - Train loss: 0.1686682254076004
+INFO 2021-02-12 22:46:31,467 - Train loss: 0.014371629804372787
+INFO 2021-02-12 22:47:28,812 - Train loss: 0.0012435753596946597
+INFO 2021-02-12 22:48:25,617 - Train loss: 0.0006018251297064126
+INFO 2021-02-12 22:49:21,906 - Train loss: 0.0003068879304919392
+INFO 2021-02-12 22:49:22,497 - Pathology - Pneumonia
+INFO 2021-02-12 22:49:38,227 - Created the training data triplets.
+INFO 2021-02-12 22:50:38,304 - Train loss: 0.2001967579126358
+INFO 2021-02-12 22:51:41,041 - Train loss: 0.01603928580880165
+INFO 2021-02-12 22:52:41,299 - Train loss: 0.0039807590655982494
+INFO 2021-02-12 22:53:40,908 - Train loss: 0.0
+INFO 2021-02-12 22:54:41,000 - Train loss: 0.0
+INFO 2021-02-12 22:54:41,733 - Pathology - Atelectasis
+INFO 2021-02-12 22:54:58,417 - Created the training data triplets.
+INFO 2021-02-12 22:55:59,747 - Train loss: 0.21917881071567535
+INFO 2021-02-12 22:57:00,788 - Train loss: 0.019398637115955353
+INFO 2021-02-12 22:57:58,970 - Train loss: 0.001837203511968255
+INFO 2021-02-12 22:58:56,374 - Train loss: 0.0
+INFO 2021-02-12 22:59:53,604 - Train loss: 0.0
+INFO 2021-02-12 22:59:54,136 - Pathology - Pneumothorax
+INFO 2021-02-12 23:00:10,404 - Created the training data triplets.
+INFO 2021-02-12 23:01:08,376 - Train loss: 0.2206026166677475
+INFO 2021-02-12 23:02:06,824 - Train loss: 0.027144214138388634
+INFO 2021-02-12 23:03:05,972 - Train loss: 0.0013482343638315797
+INFO 2021-02-12 23:04:04,399 - Train loss: 0.0004431295383255929
+INFO 2021-02-12 23:05:02,163 - Train loss: 0.0002269789547426626
+INFO 2021-02-12 23:05:02,711 - Pathology - Pleural Effusion
+INFO 2021-02-12 23:05:19,232 - Created the training data triplets.
+INFO 2021-02-12 23:06:16,047 - Train loss: 0.22203943133354187
+INFO 2021-02-12 23:07:13,665 - Train loss: 0.020090436562895775
+INFO 2021-02-12 23:08:10,665 - Train loss: 0.0019495101878419518
+INFO 2021-02-12 23:09:08,199 - Train loss: 0.0
+INFO 2021-02-12 23:10:06,589 - Train loss: 0.0
+INFO 2021-02-12 23:10:07,126 - Pathology - Pleural Other
+INFO 2021-02-12 23:10:22,945 - Created the training data triplets.
+INFO 2021-02-12 23:11:26,278 - Train loss: 0.1977526694536209
+INFO 2021-02-12 23:12:25,436 - Train loss: 0.023444660007953644
+INFO 2021-02-12 23:13:22,753 - Train loss: 0.0010078432969748974
+INFO 2021-02-12 23:14:19,214 - Train loss: 0.0007170930621214211
+INFO 2021-02-12 23:15:16,700 - Train loss: 0.0005008562002331018
+INFO 2021-02-12 23:15:17,271 - Pathology - Fracture
+INFO 2021-02-12 23:15:33,468 - Created the training data triplets.
+INFO 2021-02-12 23:16:31,533 - Train loss: 0.21370548009872437
+INFO 2021-02-12 23:17:30,759 - Train loss: 0.021035930141806602
+INFO 2021-02-12 23:18:31,010 - Train loss: 0.002008086070418358
+INFO 2021-02-12 23:19:33,361 - Train loss: 0.0003858129493892193
+INFO 2021-02-12 23:20:36,372 - Train loss: 2.9314309358596802e-05
+INFO 2021-02-12 23:20:37,070 - Pathology - Support Devices
+INFO 2021-02-12 23:20:53,520 - Created the training data triplets.
+INFO 2021-02-12 23:21:54,562 - Train loss: 0.2020641267299652
+INFO 2021-02-12 23:22:52,032 - Train loss: 0.02585085853934288
+INFO 2021-02-12 23:23:53,957 - Train loss: 0.0004777817230205983
+INFO 2021-02-12 23:24:50,791 - Train loss: 0.0003055976121686399
+INFO 2021-02-12 23:25:49,034 - Train loss: 0.0
+INFO 2021-02-12 23:25:49,731 - Pathology - No Finding
+INFO 2021-02-12 23:38:33,710 - Created the evaluation data triplets.
+INFO 2021-02-12 23:42:57,816 - Before FSL - 
+INFO 2021-02-12 23:42:57,839 - Confusion Matrix : [[5174  604]
+ [3812  410]]
+INFO 2021-02-12 23:42:57,851 - Positive Predictive Value : 89.5465559016961
+INFO 2021-02-12 23:42:57,851 - Negative Predictive Value : 9.711037423022265
+INFO 2021-02-12 23:42:57,851 - After FSL - 
+INFO 2021-02-12 23:42:57,875 - Confusion Matrix : [[5462  316]
+ [2199 2023]]
+INFO 2021-02-12 23:42:57,886 - Positive Predictive Value : 94.53097957770855
+INFO 2021-02-12 23:42:57,886 - Negative Predictive Value : 47.91567977261961
+INFO 2021-02-12 23:42:57,886 - --------------------------------------
+INFO 2021-02-12 23:42:57,886 - Pathology - Enlarged Cardiomediastinum
+INFO 2021-02-12 23:44:36,058 - Created the evaluation data triplets.
+INFO 2021-02-12 23:45:15,330 - Before FSL - 
+INFO 2021-02-12 23:45:15,354 - Confusion Matrix : [[9435    0]
+ [ 565    0]]
+INFO 2021-02-12 23:45:15,361 - Positive Predictive Value : 100.0
+INFO 2021-02-12 23:45:15,361 - Negative Predictive Value : 0.0
+INFO 2021-02-12 23:45:15,361 - After FSL - 
+INFO 2021-02-12 23:45:15,380 - Confusion Matrix : [[9435    0]
+ [ 269  296]]
+INFO 2021-02-12 23:45:15,388 - Positive Predictive Value : 100.0
+INFO 2021-02-12 23:45:15,389 - Negative Predictive Value : 52.38938053097345
+INFO 2021-02-12 23:45:15,389 - --------------------------------------
+INFO 2021-02-12 23:45:15,389 - Pathology - Cardiomegaly
+INFO 2021-02-12 23:52:29,259 - Created the evaluation data triplets.
+INFO 2021-02-12 23:54:48,959 - Before FSL - 
+INFO 2021-02-12 23:54:48,978 - Confusion Matrix : [[7205  911]
+ [1682  202]]
+INFO 2021-02-12 23:54:48,986 - Positive Predictive Value : 88.7752587481518
+INFO 2021-02-12 23:54:48,987 - Negative Predictive Value : 10.721868365180468
+INFO 2021-02-12 23:54:48,987 - After FSL - 
+INFO 2021-02-12 23:54:49,001 - Confusion Matrix : [[7624  492]
+ [ 917  967]]
+INFO 2021-02-12 23:54:49,008 - Positive Predictive Value : 93.93790044356825
+INFO 2021-02-12 23:54:49,008 - Negative Predictive Value : 51.326963906581746
+INFO 2021-02-12 23:54:49,008 - --------------------------------------
+INFO 2021-02-12 23:54:49,008 - Pathology - Lung Opacity
+INFO 2021-02-13 00:05:18,225 - Created the evaluation data triplets.
+INFO 2021-02-13 00:08:42,565 - Before FSL - 
+INFO 2021-02-13 00:08:42,582 - Confusion Matrix : [[5643 2260]
+ [1504  593]]
+INFO 2021-02-13 00:08:42,593 - Positive Predictive Value : 71.40326458306973
+INFO 2021-02-13 00:08:42,593 - Negative Predictive Value : 28.27849308536004
+INFO 2021-02-13 00:08:42,593 - After FSL - 
+INFO 2021-02-13 00:08:42,610 - Confusion Matrix : [[6760 1143]
+ [ 764 1333]]
+INFO 2021-02-13 00:08:42,619 - Positive Predictive Value : 85.53713779577376
+INFO 2021-02-13 00:08:42,619 - Negative Predictive Value : 63.567000476871726
+INFO 2021-02-13 00:08:42,619 - --------------------------------------
+INFO 2021-02-13 00:08:42,619 - Pathology - Lung Lesion
+INFO 2021-02-13 00:09:31,728 - Created the evaluation data triplets.
+INFO 2021-02-13 00:09:54,955 - Before FSL - 
+INFO 2021-02-13 00:09:54,979 - Confusion Matrix : [[9697    4]
+ [ 298    1]]
+INFO 2021-02-13 00:09:54,989 - Positive Predictive Value : 99.95876713740851
+INFO 2021-02-13 00:09:54,990 - Negative Predictive Value : 0.33444816053511706
+INFO 2021-02-13 00:09:54,990 - After FSL - 
+INFO 2021-02-13 00:09:55,012 - Confusion Matrix : [[9700    1]
+ [ 155  144]]
+INFO 2021-02-13 00:09:55,022 - Positive Predictive Value : 99.98969178435213
+INFO 2021-02-13 00:09:55,023 - Negative Predictive Value : 48.16053511705686
+INFO 2021-02-13 00:09:55,023 - --------------------------------------
+INFO 2021-02-13 00:09:55,023 - Pathology - Edema
+INFO 2021-02-13 00:18:01,669 - Created the evaluation data triplets.
+INFO 2021-02-13 00:21:00,091 - Before FSL - 
+INFO 2021-02-13 00:21:00,116 - Confusion Matrix : [[6877 1699]
+ [1147  277]]
+INFO 2021-02-13 00:21:00,127 - Positive Predictive Value : 80.18889925373134
+INFO 2021-02-13 00:21:00,127 - Negative Predictive Value : 19.452247191011235
+INFO 2021-02-13 00:21:00,127 - After FSL - 
+INFO 2021-02-13 00:21:00,150 - Confusion Matrix : [[7702  874]
+ [ 653  771]]
+INFO 2021-02-13 00:21:00,161 - Positive Predictive Value : 89.80876865671642
+INFO 2021-02-13 00:21:00,161 - Negative Predictive Value : 54.14325842696629
+INFO 2021-02-13 00:21:00,161 - --------------------------------------
+INFO 2021-02-13 00:21:00,162 - Pathology - Consolidation
+INFO 2021-02-13 00:22:14,212 - Created the evaluation data triplets.
+INFO 2021-02-13 00:22:41,817 - Before FSL - 
+INFO 2021-02-13 00:22:41,840 - Confusion Matrix : [[9570    0]
+ [ 430    0]]
+INFO 2021-02-13 00:22:41,850 - Positive Predictive Value : 100.0
+INFO 2021-02-13 00:22:41,851 - Negative Predictive Value : 0.0
+INFO 2021-02-13 00:22:41,851 - After FSL - 
+INFO 2021-02-13 00:22:41,872 - Confusion Matrix : [[9570    0]
+ [ 228  202]]
+INFO 2021-02-13 00:22:41,882 - Positive Predictive Value : 100.0
+INFO 2021-02-13 00:22:41,882 - Negative Predictive Value : 46.97674418604651
+INFO 2021-02-13 00:22:41,882 - --------------------------------------
+INFO 2021-02-13 00:22:41,882 - Pathology - Pneumonia
+INFO 2021-02-13 00:26:44,811 - Created the evaluation data triplets.
+INFO 2021-02-13 00:28:03,640 - Before FSL - 
+INFO 2021-02-13 00:28:03,664 - Confusion Matrix : [[8563   51]
+ [1377    9]]
+INFO 2021-02-13 00:28:03,675 - Positive Predictive Value : 99.40794056187602
+INFO 2021-02-13 00:28:03,675 - Negative Predictive Value : 0.6493506493506493
+INFO 2021-02-13 00:28:03,675 - After FSL - 
+INFO 2021-02-13 00:28:03,697 - Confusion Matrix : [[8589   25]
+ [ 725  661]]
+INFO 2021-02-13 00:28:03,708 - Positive Predictive Value : 99.70977478523334
+INFO 2021-02-13 00:28:03,708 - Negative Predictive Value : 47.69119769119769
+INFO 2021-02-13 00:28:03,708 - --------------------------------------
+INFO 2021-02-13 00:28:03,708 - Pathology - Atelectasis
+INFO 2021-02-13 00:34:39,517 - Created the evaluation data triplets.
+INFO 2021-02-13 00:36:49,039 - Before FSL - 
+INFO 2021-02-13 00:36:49,056 - Confusion Matrix : [[7485  443]
+ [1963  109]]
+INFO 2021-02-13 00:36:49,063 - Positive Predictive Value : 94.412209889001
+INFO 2021-02-13 00:36:49,063 - Negative Predictive Value : 5.260617760617761
+INFO 2021-02-13 00:36:49,063 - After FSL - 
+INFO 2021-02-13 00:36:49,078 - Confusion Matrix : [[7699  229]
+ [1035 1037]]
+INFO 2021-02-13 00:36:49,085 - Positive Predictive Value : 97.11150353178607
+INFO 2021-02-13 00:36:49,085 - Negative Predictive Value : 50.04826254826254
+INFO 2021-02-13 00:36:49,085 - --------------------------------------
+INFO 2021-02-13 00:36:49,085 - Pathology - Pneumothorax
+INFO 2021-02-13 00:37:56,609 - Created the evaluation data triplets.
+INFO 2021-02-13 00:38:26,484 - Before FSL - 
+INFO 2021-02-13 00:38:26,509 - Confusion Matrix : [[9580   15]
+ [ 405    0]]
+INFO 2021-02-13 00:38:26,520 - Positive Predictive Value : 99.84366857738407
+INFO 2021-02-13 00:38:26,521 - Negative Predictive Value : 0.0
+INFO 2021-02-13 00:38:26,521 - After FSL - 
+INFO 2021-02-13 00:38:26,543 - Confusion Matrix : [[9586    9]
+ [ 208  197]]
+INFO 2021-02-13 00:38:26,554 - Positive Predictive Value : 99.90620114643043
+INFO 2021-02-13 00:38:26,554 - Negative Predictive Value : 48.641975308641975
+INFO 2021-02-13 00:38:26,554 - --------------------------------------
+INFO 2021-02-13 00:38:26,554 - Pathology - Pleural Effusion
+INFO 2021-02-13 00:47:39,124 - Created the evaluation data triplets.
+INFO 2021-02-13 00:50:50,876 - Before FSL - 
+INFO 2021-02-13 00:50:50,901 - Confusion Matrix : [[6206 1592]
+ [1772  430]]
+INFO 2021-02-13 00:50:50,912 - Positive Predictive Value : 79.58450884842267
+INFO 2021-02-13 00:50:50,912 - Negative Predictive Value : 19.527702089009992
+INFO 2021-02-13 00:50:50,912 - After FSL - 
+INFO 2021-02-13 00:50:50,935 - Confusion Matrix : [[6906  892]
+ [ 972 1230]]
+INFO 2021-02-13 00:50:50,946 - Positive Predictive Value : 88.56116953064888
+INFO 2021-02-13 00:50:50,946 - Negative Predictive Value : 55.858310626703
+INFO 2021-02-13 00:50:50,947 - --------------------------------------
+INFO 2021-02-13 00:50:50,947 - Pathology - Pleural Other
+INFO 2021-02-13 00:51:05,992 - Created the evaluation data triplets.
+INFO 2021-02-13 00:51:16,048 - Before FSL - 
+INFO 2021-02-13 00:51:16,080 - Confusion Matrix : [[9905    0]
+ [  95    0]]
+INFO 2021-02-13 00:51:16,090 - Positive Predictive Value : 100.0
+INFO 2021-02-13 00:51:16,091 - Negative Predictive Value : 0.0
+INFO 2021-02-13 00:51:16,091 - After FSL - 
+INFO 2021-02-13 00:51:16,113 - Confusion Matrix : [[9905    0]
+ [  51   44]]
+INFO 2021-02-13 00:51:16,124 - Positive Predictive Value : 100.0
+INFO 2021-02-13 00:51:16,124 - Negative Predictive Value : 46.31578947368421
+INFO 2021-02-13 00:51:16,124 - --------------------------------------
+INFO 2021-02-13 00:51:16,124 - Pathology - Fracture
+INFO 2021-02-13 00:51:38,897 - Created the evaluation data triplets.
+INFO 2021-02-13 00:51:50,229 - Before FSL - 
+INFO 2021-02-13 00:51:50,253 - Confusion Matrix : [[9864    0]
+ [ 136    0]]
+INFO 2021-02-13 00:51:50,264 - Positive Predictive Value : 100.0
+INFO 2021-02-13 00:51:50,264 - Negative Predictive Value : 0.0
+INFO 2021-02-13 00:51:50,264 - After FSL - 
+INFO 2021-02-13 00:51:50,286 - Confusion Matrix : [[9864    0]
+ [  67   69]]
+INFO 2021-02-13 00:51:50,297 - Positive Predictive Value : 100.0
+INFO 2021-02-13 00:51:50,297 - Negative Predictive Value : 50.73529411764706
+INFO 2021-02-13 00:51:50,297 - --------------------------------------
+INFO 2021-02-13 00:51:50,297 - Pathology - Support Devices
+INFO 2021-02-13 01:01:41,531 - Created the evaluation data triplets.
+INFO 2021-02-13 01:05:02,795 - Before FSL - 
+INFO 2021-02-13 01:05:02,819 - Confusion Matrix : [[5880 1894]
+ [1663  563]]
+INFO 2021-02-13 01:05:02,830 - Positive Predictive Value : 75.6367378440957
+INFO 2021-02-13 01:05:02,830 - Negative Predictive Value : 25.29200359389039
+INFO 2021-02-13 01:05:02,830 - After FSL - 
+INFO 2021-02-13 01:05:02,852 - Confusion Matrix : [[6761 1013]
+ [ 932 1294]]
+INFO 2021-02-13 01:05:02,863 - Positive Predictive Value : 86.96938512992025
+INFO 2021-02-13 01:05:02,863 - Negative Predictive Value : 58.13117699910153
+INFO 2021-02-13 01:05:02,864 - --------------------------------------
