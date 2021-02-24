@@ -37,4 +37,41 @@ NPV = TN/(TN+FN)
 
 ## Results
 
+<table cellspacing="0" summary="" class="chart">
+<caption>
+Results from Fine-tuned Algorithm, Few-Shot Learning and Incremental FSL Algorithm
+</caption>
+<thead>
+<tr>
+<th class="toplevel"></th>
+<th class="toplevel"></th>
+<th class="toplevel" colspan="2">Baseline Algorithm</th>
+<th class="toplevel" colspan="2">FSL Algorithm</th>
+<th class="toplevel" colspan="2">Incremental FSL Algorithm</th>
+</tr>
+<tr>
+<th headers="sno">S.No</th>
+<th headers="disease">Pathology</th>
+<th headers="bsl">PPV</th>
+<th headers="bsl">NPV</th>
+<th headers="fsl">PPV</th>
+<th headers="fsl">NPV</th>
+<th headers="ifsl">PPV</th>
+<th headers="ifsl">NPV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th headers="sno">1</th>
+<th headers="disease">No Finding</th>
+<th headers="bsl">89.99</th>
+<th headers="bsl">10.35</th>
+<th headers="fsl">94.06</th>
+<th headers="fsl">44.38</th>
+<th headers="ifsl">94.53</th>
+<th headers="ifsl">47.91</th>
+</tr>
+</tbody>
+</table>
+
 ## Acknowledgements
