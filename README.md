@@ -4,6 +4,8 @@
 - [Introduction](#introduction)
 - [Architecture](#architecture)
 - [Algorithm Modelling](#algorithm)
+- [Dependencies](#dependencies)
+- [Results](#results)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -13,8 +15,26 @@ This GitHub repository is the codebase for the research paper titled - '**Few-sh
 
 ## Architecture
 
-![Architectural Flowchart](/images/Few Shot Learning.jpeg)
+A DenseNet 121 pre-trained model is used as the baseline algorithm. The validation inference of baseline algorithm is used to create dataset (using image triplets) to train Few-Shot Learning algorithm. The data creation and further treatment of data is provided in the following flow chart.
+
+![Architectural Flowchart](/images/few_shot_learning.jpeg)
+
+Creating data for trianing and validation does involve same steps. Only 150 image triplets are collected for training the algorithm, whereas all the false inference images are used for validation.
 
 ## Algorithm Modelling
+
+The pre-trained model was modified to create 128-dimensional vectors for each image in a triplet. The few-Shot Learning model is trained using Adam optimizer for 5 epochs. PPV(Positive Prediction Value) and NPV (Negative Prediction Value) are used as evaluation metrics. We experimented by creating another Few-Shot Learning model where all the pahologies are trained and validated at once, which is referred as **Incremental Training**. 
+
+```math
+PPV = TP/(TP+FP)
+```
+
+```math
+NPV = TN/(TN+FN)
+```
+
+## Dependencies
+
+## Results
 
 ## Acknowledgements
