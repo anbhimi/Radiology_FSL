@@ -204,4 +204,6 @@ Results from Fine-tuned Algorithm, Few-Shot Learning and Incremental FSL Algorit
 </tbody>
 </table>
 
+The results from Baseline Model, FSL Algorithm and Incremental FSL Algorithm were subjected to statistical tests to check the significance of the improvements. By performing Paired T-tests on the results, we observed that the improvement between Basline Model and FSL Model are statistically significant. Whereas, the results between FSL and Incremental FSL Model are significant in the case of NPV improvements but are not significant in case of PPV improvements.
+
 ## Acknowledgements
