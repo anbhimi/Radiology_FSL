@@ -187,7 +187,7 @@ Results from Fine-tuned Algorithm, Few-Shot Learning and Incremental FSL Algorit
 <td headers="bsl">100.0</td>
 <td headers="bsl">0.0</td>
 <td headers="fsl">100.0</td>
-<td headers="fsl">49.47</td>
+<td headers="fsl">50.0</td>
 <td headers="ifsl">100.0</td>
 <td headers="ifsl">50.73</td>
 </tr>
