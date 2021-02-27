@@ -35,6 +35,11 @@ NPV = TN/(TN+FN)
 
 ## Dependencies
 
+The whole script has been written in Python using PyTorch Package. There are only a couple of dependencies that have not been uploaded into the GitHub repository because of the memory limit - 
+1. Pre-trained Model (model_ones_3epoch_densenet.tar) - The pre-trained model which has been used as the baseline model. The evaluation inference of the pre-trained model has been used to create image triplets.
+2. Training file (train.csv) - The initial training data, which has been derived from CheXpert database. The script used to create train_data has been attached in the **code** folder.
+3. All the dependencies other than pre-trainmed model and training file are provided in this GitHub repository.
+
 ## Results
 
 <table cellspacing="0" summary="" class="chart">
@@ -207,3 +212,6 @@ Results from Fine-tuned Algorithm, Few-Shot Learning and Incremental FSL Algorit
 The results from Baseline Model, FSL Algorithm and Incremental FSL Algorithm were subjected to statistical tests to check the significance of the improvements. By performing Paired T-tests on the results, we observed that the improvement between Basline Model and FSL Model are statistically significant. Whereas, the results between FSL and Incremental FSL Model are significant in the case of NPV improvements but are not significant in case of PPV improvements.
 
 ## Acknowledgements
+
+1. [CheXpert Competition Details](https://stanfordmlgroup.github.io/competitions/chexpert/)
+2. [Pre-trained Model](https://github.com/gaetandi/cheXpert)
