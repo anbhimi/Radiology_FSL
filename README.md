@@ -37,7 +37,7 @@ NPV = TN/(TN+FN)
 
 The whole script has been written in Python using PyTorch Package. There are only a couple of dependencies that have not been uploaded into the GitHub repository because of the memory limit - 
 1. Pre-trained Model (model_ones_3epoch_densenet.tar) - The pre-trained model which has been used as the baseline model. The evaluation inference of the pre-trained model has been used to create image triplets.
-2. Training file (train.csv) - The initial training data, which has been derived from CheXpert database. The script used to create train_data has been attached in the **code** folder.
+2. Training file (train.csv) - The initial training data, which has been derived from CheXpert database.
 3. All the dependencies other than pre-trainmed model and training file are provided in this GitHub repository.
 
 ## Results
